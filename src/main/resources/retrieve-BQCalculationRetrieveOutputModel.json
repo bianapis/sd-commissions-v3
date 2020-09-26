@@ -1,0 +1,26 @@
+{
+  "calculationPostconditions" : "calculationPostconditions",
+  "calculationCommissionCalculationServiceInputsandOuputs" : "calculationCommissionCalculationServiceInputsandOuputs",
+  "calculationCommissionCalculationServiceType" : "calculationCommissionCalculationServiceType",
+  "calculationRetrieveActionTaskReference" : "CRATR706846",
+  "calculationCommissionCalculationServiceWorkProduct" : "calculationCommissionCalculationServiceWorkProduct",
+  "calculationInstanceAnalysis" : {
+    "calculationInstanceAnalysisReportType" : "calculationInstanceAnalysisReportType",
+    "calculationInstanceAnalysisParameters" : "calculationInstanceAnalysisParameters",
+    "calculationInstanceAnalysisReport" : {},
+    "calculationInstanceAnalysisRecord" : {}
+  },
+  "calculationPreconditions" : "calculationPreconditions",
+  "commissionCalculation" : "commissionCalculation",
+  "calculationRetrieveActionTaskRecord" : {},
+  "calculationInstanceReport" : {
+    "calculationInstanceReport" : {},
+    "calculationInstanceReportParameters" : "calculationInstanceReportParameters",
+    "calculationInstanceReportRecord" : {},
+    "calculationInstanceReportType" : "calculationInstanceReportType"
+  },
+  "calculationCommissionCalculationServiceName" : "calculationCommissionCalculationServiceName",
+  "calculationRetrieveActionResponse" : "calculationRetrieveActionResponse",
+  "calculationCommissionCalculationServiceDescription" : "calculationCommissionCalculationServiceDescription",
+  "calculationTaskSchedule" : "calculationTaskSchedule"
+}

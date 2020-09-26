@@ -1,0 +1,26 @@
+{
+  "paymentServiceInputsandOuputs" : "paymentServiceInputsandOuputs",
+  "businessService" : "businessService",
+  "paymentRetrieveActionResponse" : "paymentRetrieveActionResponse",
+  "paymentRetrieveActionTaskReference" : "PRATR768982",
+  "paymentRetrieveActionTaskRecord" : {},
+  "paymentServiceName" : "paymentServiceName",
+  "paymentPostconditions" : "paymentPostconditions",
+  "paymentServiceWorkProduct" : "paymentServiceWorkProduct",
+  "paymentInstanceAnalysis" : {
+    "paymentInstanceAnalysisReport" : {},
+    "paymentInstanceAnalysisParameters" : "paymentInstanceAnalysisParameters",
+    "paymentInstanceAnalysisReportType" : "paymentInstanceAnalysisReportType",
+    "paymentInstanceAnalysisRecord" : {}
+  },
+  "paymentPreconditions" : "paymentPreconditions",
+  "paymentServiceType" : "paymentServiceType",
+  "paymentTaskSchedule" : "paymentTaskSchedule",
+  "paymentServiceDescription" : "paymentServiceDescription",
+  "paymentInstanceReport" : {
+    "paymentInstanceReportParameters" : "paymentInstanceReportParameters",
+    "paymentInstanceReportType" : "paymentInstanceReportType",
+    "paymentInstanceReportRecord" : {},
+    "paymentInstanceReport" : {}
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "commissionCalculation" : "commissionCalculation",
+  "calculationCommissionCalculationServiceName" : "calculationCommissionCalculationServiceName",
+  "calculationUpdateActionTaskReference" : "CUATR769849",
+  "calculationPostconditions" : "calculationPostconditions",
+  "calculationCommissionCalculationServiceInputsandOuputs" : "calculationCommissionCalculationServiceInputsandOuputs",
+  "calculationCommissionCalculationServiceType" : "calculationCommissionCalculationServiceType",
+  "calculationUpdateActionTaskRecord" : {},
+  "calculationCommissionCalculationServiceWorkProduct" : "calculationCommissionCalculationServiceWorkProduct",
+  "updateResponseRecord" : {},
+  "calculationCommissionCalculationServiceDescription" : "calculationCommissionCalculationServiceDescription",
+  "calculationPreconditions" : "calculationPreconditions",
+  "calculationTaskSchedule" : "calculationTaskSchedule"
+}

@@ -1,0 +1,39 @@
+{
+  "commissionsRetrieveActionTaskReference" : "SRATR795161",
+  "commissionsRetrieveActionResponse" : "commissionsRetrieveActionResponse",
+  "commissionsRetrieveActionTaskRecord" : {},
+  "commissionsRetrieveActionRecord" : {
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "commissionsActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    },
+    "commissionsPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    }
+  },
+  "commissionsOfferedService" : {
+    "commissionsServiceRecord" : {
+      "commissionsServiceVersion" : "commissionsServiceVersion",
+      "commissionsServiceType" : "commissionsServiceType",
+      "commissionsServicePoliciesandGuidelines" : {
+        "commissionsServicePricingandTerms" : "commissionsServicePricingandTerms",
+        "commissionsServiceIntendedUses" : "commissionsServiceIntendedUses",
+        "commissionsServiceEligibility" : "commissionsServiceEligibility"
+      },
+      "commissionsServiceSchedule" : "commissionsServiceSchedule",
+      "commissionsServiceDescription" : "commissionsServiceDescription"
+    },
+    "commissionsServiceReference" : "776158"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "commissionTransactionInstanceStatus" : "commissionTransactionInstanceStatus",
+  "commissionTransactionInstanceReference" : "CTIR706960",
+  "commissionTransactionSelectedOption" : "commissionTransactionSelectedOption",
+  "commissionTransactionInitiateActionReference" : "CTIAR703202",
+  "commissionTransactionParameterType" : "commissionTransactionParameterType",
+  "commissionTransactionInitiateActionRecord" : {},
+  "commissionTransactionStatus" : "commissionTransactionStatus"
+}

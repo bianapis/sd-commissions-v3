@@ -1,0 +1,15 @@
+{
+  "calculationPostconditions" : "calculationPostconditions",
+  "calculationCommissionCalculationServiceInputsandOuputs" : "calculationCommissionCalculationServiceInputsandOuputs",
+  "calculationCommissionCalculationServiceType" : "calculationCommissionCalculationServiceType",
+  "calculationCommissionCalculationServiceWorkProduct" : "calculationCommissionCalculationServiceWorkProduct",
+  "calculationExchangeActionResponse" : "calculationExchangeActionResponse",
+  "calculationPreconditions" : "calculationPreconditions",
+  "commissionCalculation" : "commissionCalculation",
+  "calculationCommissionCalculationServiceName" : "calculationCommissionCalculationServiceName",
+  "calculationInstanceStatus" : "calculationInstanceStatus",
+  "calculationExchangeActionTaskRecord" : {},
+  "calculationCommissionCalculationServiceDescription" : "calculationCommissionCalculationServiceDescription",
+  "calculationTaskSchedule" : "calculationTaskSchedule",
+  "calculationExchangeActionTaskReference" : "CEATR764314"
+}

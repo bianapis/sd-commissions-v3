@@ -1,0 +1,25 @@
+{
+  "checkPreconditions" : "checkPreconditions",
+  "businessService" : "businessService",
+  "checkRetrieveActionTaskReference" : "CRATR731078",
+  "checkServiceDescription" : "checkServiceDescription",
+  "checkServiceWorkProduct" : "checkServiceWorkProduct",
+  "checkInstanceReport" : {
+    "checkInstanceReportParameters" : "checkInstanceReportParameters",
+    "checkInstanceReportRecord" : {},
+    "checkInstanceReport" : {},
+    "checkInstanceReportType" : "checkInstanceReportType"
+  },
+  "checkServiceInputsandOuputs" : "checkServiceInputsandOuputs",
+  "checkRetrieveActionResponse" : "checkRetrieveActionResponse",
+  "checkTaskSchedule" : "checkTaskSchedule",
+  "checkServiceType" : "checkServiceType",
+  "checkInstanceAnalysis" : {
+    "checkInstanceAnalysisReport" : {},
+    "checkInstanceAnalysisParameters" : "checkInstanceAnalysisParameters",
+    "checkInstanceAnalysisRecord" : {},
+    "checkInstanceAnalysisReportType" : "checkInstanceAnalysisReportType"
+  },
+  "checkPostconditions" : "checkPostconditions",
+  "checkRetrieveActionTaskRecord" : {}
+}

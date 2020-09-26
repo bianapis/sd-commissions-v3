@@ -1,0 +1,9 @@
+{
+  "commissionTransactionExecuteActionTaskReference" : "CTEATR784885",
+  "executeRecordReference" : "ERR745349",
+  "executeResponseRecord" : {},
+  "commissionTransactionExecuteActionTaskRecord" : {},
+  "commissionTransactionSelectedOption" : "commissionTransactionSelectedOption",
+  "commissionTransactionParameterType" : "commissionTransactionParameterType",
+  "commissionTransactionStatus" : "commissionTransactionStatus"
+}

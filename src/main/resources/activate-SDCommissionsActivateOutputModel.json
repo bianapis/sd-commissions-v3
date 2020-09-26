@@ -1,0 +1,24 @@
+{
+  "commissionsServicingSessionRecord" : {},
+  "commissionsServiceConfigurationRecord" : {
+    "commissionsServiceConfigurationSettingDescription" : "commissionsServiceConfigurationSettingDescription",
+    "commissionsServiceSubscription" : {
+      "commissionsServiceSubscriberAccessProfile" : "commissionsServiceSubscriberAccessProfile",
+      "commissionsServiceSubscriberReference" : "769192"
+    },
+    "commissionsServiceConfigurationSetup" : {
+      "commissionsServiceConfigurationParameter" : "commissionsServiceConfigurationParameter"
+    },
+    "commissionsServiceConfigurationSettingReference" : "700761",
+    "commissionsServiceStatus" : "commissionsServiceStatus",
+    "commissionsServiceAgreement" : {
+      "commissionsServiceAgreementTermsandConditions" : "commissionsServiceAgreementTermsandConditions",
+      "commissionsServiceAgreementReference" : "791202",
+      "commissionsServiceUserReference" : "767210"
+    }
+  },
+  "commissionsServicingSessionStatus" : "commissionsServicingSessionStatus",
+  "commissionsActivationActionTaskReference" : "SAATR758836",
+  "commissionsActivationActionTaskRecord" : {},
+  "commissionsServicingSessionReference" : "SSSR783215"
+}

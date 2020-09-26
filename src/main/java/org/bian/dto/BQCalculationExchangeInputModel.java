@@ -1,0 +1,225 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.CRCommissionTransactionExchangeInputModelCommissionTransactionExchangeActionRequest;
+
+import javax.validation.Valid;
+  
+/**
+ * BQCalculationExchangeInputModel
+ */
+public class BQCalculationExchangeInputModel   {
+  private String commissionTransactionInstanceReference = null;
+
+  private String calculationInstanceReference = null;
+
+  private String calculationPreconditions = null;
+
+  private String calculationTaskSchedule = null;
+
+  private String commissionCalculation = null;
+
+  private String calculationPostconditions = null;
+
+  private String calculationCommissionCalculationServiceType = null;
+
+  private String calculationCommissionCalculationServiceDescription = null;
+
+  private String calculationCommissionCalculationServiceInputsandOuputs = null;
+
+  private String calculationCommissionCalculationServiceWorkProduct = null;
+
+  private String calculationCommissionCalculationServiceName = null;
+
+  private Object calculationExchangeActionTaskRecord = null;
+
+  private CRCommissionTransactionExchangeInputModelCommissionTransactionExchangeActionRequest calculationExchangeActionRequest = null;
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::ISO20022andUNCEFACT::Identifier  general-info: Reference to the parent Commission Transaction instance 
+   * @return commissionTransactionInstanceReference
+  **/
+
+  public String getCommissionTransactionInstanceReference() {
+    return commissionTransactionInstanceReference;
+  }
+
+  public void setCommissionTransactionInstanceReference(String commissionTransactionInstanceReference) {
+    this.commissionTransactionInstanceReference = commissionTransactionInstanceReference;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::ISO20022andUNCEFACT::Identifier  general-info: Reference to the Calculation instance 
+   * @return calculationInstanceReference
+  **/
+
+  public String getCalculationInstanceReference() {
+    return calculationInstanceReference;
+  }
+
+  public void setCalculationInstanceReference(String calculationInstanceReference) {
+    this.calculationInstanceReference = calculationInstanceReference;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Text  general-info: The required status/situation prior to the execution of the task 
+   * @return calculationPreconditions
+  **/
+
+  public String getCalculationPreconditions() {
+    return calculationPreconditions;
+  }
+
+  public void setCalculationPreconditions(String calculationPreconditions) {
+    this.calculationPreconditions = calculationPreconditions;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Text  general-info: The timing and key actions/milestones involved in completing the transaction task 
+   * @return calculationTaskSchedule
+  **/
+
+  public String getCalculationTaskSchedule() {
+    return calculationTaskSchedule;
+  }
+
+  public void setCalculationTaskSchedule(String calculationTaskSchedule) {
+    this.calculationTaskSchedule = calculationTaskSchedule;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Text  general-info: The Commission Transaction specific Business Service 
+   * @return commissionCalculation
+  **/
+
+  public String getCommissionCalculation() {
+    return commissionCalculation;
+  }
+
+  public void setCommissionCalculation(String commissionCalculation) {
+    this.commissionCalculation = commissionCalculation;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Text  general-info: The completion status and any triggered/dependent actions once the task has been completed 
+   * @return calculationPostconditions
+  **/
+
+  public String getCalculationPostconditions() {
+    return calculationPostconditions;
+  }
+
+  public void setCalculationPostconditions(String calculationPostconditions) {
+    this.calculationPostconditions = calculationPostconditions;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Text  general-info: Reference to the specific business service type 
+   * @return calculationCommissionCalculationServiceType
+  **/
+
+  public String getCalculationCommissionCalculationServiceType() {
+    return calculationCommissionCalculationServiceType;
+  }
+
+  public void setCalculationCommissionCalculationServiceType(String calculationCommissionCalculationServiceType) {
+    this.calculationCommissionCalculationServiceType = calculationCommissionCalculationServiceType;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Text  general-info: Description of the performed business service 
+   * @return calculationCommissionCalculationServiceDescription
+  **/
+
+  public String getCalculationCommissionCalculationServiceDescription() {
+    return calculationCommissionCalculationServiceDescription;
+  }
+
+  public void setCalculationCommissionCalculationServiceDescription(String calculationCommissionCalculationServiceDescription) {
+    this.calculationCommissionCalculationServiceDescription = calculationCommissionCalculationServiceDescription;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Text  general-info: Mandatory and optional inputs and output information for the business service 
+   * @return calculationCommissionCalculationServiceInputsandOuputs
+  **/
+
+  public String getCalculationCommissionCalculationServiceInputsandOuputs() {
+    return calculationCommissionCalculationServiceInputsandOuputs;
+  }
+
+  public void setCalculationCommissionCalculationServiceInputsandOuputs(String calculationCommissionCalculationServiceInputsandOuputs) {
+    this.calculationCommissionCalculationServiceInputsandOuputs = calculationCommissionCalculationServiceInputsandOuputs;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Text  general-info: Documentation, meeting schedules, notes, reasearch. calculations and any other work products produced by the business service 
+   * @return calculationCommissionCalculationServiceWorkProduct
+  **/
+
+  public String getCalculationCommissionCalculationServiceWorkProduct() {
+    return calculationCommissionCalculationServiceWorkProduct;
+  }
+
+  public void setCalculationCommissionCalculationServiceWorkProduct(String calculationCommissionCalculationServiceWorkProduct) {
+    this.calculationCommissionCalculationServiceWorkProduct = calculationCommissionCalculationServiceWorkProduct;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Text  general-info:  
+   * @return calculationCommissionCalculationServiceName
+  **/
+
+  public String getCalculationCommissionCalculationServiceName() {
+    return calculationCommissionCalculationServiceName;
+  }
+
+  public void setCalculationCommissionCalculationServiceName(String calculationCommissionCalculationServiceName) {
+    this.calculationCommissionCalculationServiceName = calculationCommissionCalculationServiceName;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Binary  general-info: The exchange service call consolidated processing record 
+   * @return calculationExchangeActionTaskRecord
+  **/
+
+  public Object getCalculationExchangeActionTaskRecord() {
+    return calculationExchangeActionTaskRecord;
+  }
+
+  public void setCalculationExchangeActionTaskRecord(Object calculationExchangeActionTaskRecord) {
+    this.calculationExchangeActionTaskRecord = calculationExchangeActionTaskRecord;
+  }
+
+
+  /**
+   * Get calculationExchangeActionRequest
+   * @return calculationExchangeActionRequest
+  **/
+
+  public CRCommissionTransactionExchangeInputModelCommissionTransactionExchangeActionRequest getCalculationExchangeActionRequest() {
+    return calculationExchangeActionRequest;
+  }
+
+  public void setCalculationExchangeActionRequest(CRCommissionTransactionExchangeInputModelCommissionTransactionExchangeActionRequest calculationExchangeActionRequest) {
+    this.calculationExchangeActionRequest = calculationExchangeActionRequest;
+  }
+
+
+}
+

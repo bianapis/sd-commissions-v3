@@ -1,0 +1,14 @@
+{
+  "checkServiceInputsandOuputs" : "checkServiceInputsandOuputs",
+  "checkPreconditions" : "checkPreconditions",
+  "businessService" : "businessService",
+  "checkTaskSchedule" : "checkTaskSchedule",
+  "checkExchangeActionResponse" : "checkExchangeActionResponse",
+  "checkInstanceStatus" : "checkInstanceStatus",
+  "checkServiceType" : "checkServiceType",
+  "checkServiceDescription" : "checkServiceDescription",
+  "checkServiceWorkProduct" : "checkServiceWorkProduct",
+  "checkPostconditions" : "checkPostconditions",
+  "checkExchangeActionTaskReference" : "CEATR735553",
+  "checkExchangeActionTaskRecord" : {}
+}

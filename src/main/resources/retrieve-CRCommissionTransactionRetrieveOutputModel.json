@@ -1,0 +1,20 @@
+{
+  "commissionTransactionInstanceReportRecord" : {
+    "commissionTransactionInstanceReportType" : "commissionTransactionInstanceReportType",
+    "commissionTransactionInstanceReportData" : "commissionTransactionInstanceReportData",
+    "commissionTransactionInstanceReport" : {}
+  },
+  "commissionTransactionRetrieveActionTaskRecord" : {},
+  "commissionTransactionType" : "commissionTransactionType",
+  "commissionTransactionInstanceAnalysis" : {
+    "commissionTransactionInstanceAnalysisReportType" : "commissionTransactionInstanceAnalysisReportType",
+    "commissionTransactionInstanceAnalysisData" : "commissionTransactionInstanceAnalysisData",
+    "commissionTransactionInstanceAnalysisReport" : {}
+  },
+  "commissionTransactionRetrieveActionTaskReference" : "CTRATR721518",
+  "commissionTransactionSelectedOption" : "commissionTransactionSelectedOption",
+  "commissionTransactionRetrieveActionResponse" : "commissionTransactionRetrieveActionResponse",
+  "commissionTransactionParameterType" : "commissionTransactionParameterType",
+  "commissionTransactionTransactionType" : "commissionTransactionTransactionType",
+  "commissionTransactionStatus" : "commissionTransactionStatus"
+}
